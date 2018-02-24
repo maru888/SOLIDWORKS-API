@@ -1,0 +1,3 @@
+# SOLIDWORKS-API
+
+SOLIDWORKS-API(macro) with VBA
